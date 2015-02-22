@@ -1,0 +1,7 @@
+Discovery starting.
+Discovery completed in 1 second, 244 milliseconds.
+Run starting. Expected test count is: 4
+Problem1Test:
+- Test an integer list. (109 milliseconds)
+- Test a String list. (0 milliseconds)
+Problem2Test:
